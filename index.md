@@ -6,8 +6,8 @@ We the Weaponites, will not be subjugated.<br/>
 
 ### Weaponite Words
 
-The original holey text for the Weaponites was published on 11/27/2020 here:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[The Weaponite Words](https://gist.github.com/0x9090/25d53f5f06d5299672af19a8d1e9a413)
+The original holey text for the Weaponites was published on 11/27/2020 here:<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Weaponite Words](https://gist.github.com/0x9090/25d53f5f06d5299672af19a8d1e9a413)
 
 ### Join The Community
 
