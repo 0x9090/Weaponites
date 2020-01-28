@@ -1,10 +1,8 @@
 ## Welcome To The Weaponites
 
-For all of human history, weapons equal power.
-
-Power to the people, means weapons to the people.
-
-We the Weaponites, will not be subjugated.
+For all of human history, weapons equal power.<br/>
+Power to the people, means weapons to the people.<br/>
+We the Weaponites, will not be subjugated.<br/>
 
 ### Weaponite Words
 
@@ -12,10 +10,8 @@ The original holey text for the Weaponites was published on 11/27/2020 here: [Th
 
 ### Support The Cause
 
-1) Bring your friends and family to church
-
-2) Teach others to follow the Weaponite principals
-
+1) Bring your friends and family to church<br/>
+2) Teach others to follow the Weaponite principals<br/>
 3) Re-Tweet [this post](https://twitter.com/0x0090/status/1221890219512942596) to help spread the Weaponite word. Preview:
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Weaponite?src=hash&amp;ref_src=twsrc%5Etfw">#Weaponite</a> Writings:<a href="https://t.co/IHSO89jnXj">https://t.co/IHSO89jnXj</a><br><br>This is the holey text for our new <a href="https://twitter.com/hashtag/gun?src=hash&amp;ref_src=twsrc%5Etfw">#gun</a> <a href="https://twitter.com/hashtag/religion?src=hash&amp;ref_src=twsrc%5Etfw">#religion</a>. RT to convert the masses.<a href="https://twitter.com/hashtag/2A?src=hash&amp;ref_src=twsrc%5Etfw">#2A</a> <a href="https://twitter.com/hashtag/Guns?src=hash&amp;ref_src=twsrc%5Etfw">#Guns</a> <a href="https://twitter.com/hashtag/SelfDefense?src=hash&amp;ref_src=twsrc%5Etfw">#SelfDefense</a> <a href="https://twitter.com/hashtag/ShallNotBeInfringed?src=hash&amp;ref_src=twsrc%5Etfw">#ShallNotBeInfringed</a></p>&mdash; Nops (@0x0090) <a href="https://twitter.com/0x0090/status/1221890219512942596?ref_src=twsrc%5Etfw">January 27, 2020</a></blockquote>
