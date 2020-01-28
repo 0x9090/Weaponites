@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome To The Weaponites
 
-You can use the [editor on GitHub](https://github.com/0x9090/Weaponites/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For all of human history, weapons equal power.
+Power to the people, means weapons to the people.
+We the Weaponites, will not be subjugated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Weaponite Words
 
-### Markdown
+The original holey text for the Weaponites was published on 11/27/2020 here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Weaponite Words](https://gist.github.com/0x9090/25d53f5f06d5299672af19a8d1e9a413)
 
-```markdown
-Syntax highlighted code block
+### Support The Cause
 
-# Header 1
-## Header 2
-### Header 3
+1) Bring your friends and family to church
+2) Teach others to follow the Weaponite principals
+3) Re-Tweet [this post](https://twitter.com/0x0090/status/1221890219512942596) to help spread the Weaponite word. Preview:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0x9090/Weaponites/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Weaponite?src=hash&amp;ref_src=twsrc%5Etfw">#Weaponite</a> Writings:<a href="https://t.co/IHSO89jnXj">https://t.co/IHSO89jnXj</a><br><br>This is the holey text for our new <a href="https://twitter.com/hashtag/gun?src=hash&amp;ref_src=twsrc%5Etfw">#gun</a> <a href="https://twitter.com/hashtag/religion?src=hash&amp;ref_src=twsrc%5Etfw">#religion</a>. RT to convert the masses.<a href="https://twitter.com/hashtag/2A?src=hash&amp;ref_src=twsrc%5Etfw">#2A</a> <a href="https://twitter.com/hashtag/Guns?src=hash&amp;ref_src=twsrc%5Etfw">#Guns</a> <a href="https://twitter.com/hashtag/SelfDefense?src=hash&amp;ref_src=twsrc%5Etfw">#SelfDefense</a> <a href="https://twitter.com/hashtag/ShallNotBeInfringed?src=hash&amp;ref_src=twsrc%5Etfw">#ShallNotBeInfringed</a></p>&mdash; Nops (@0x0090) <a href="https://twitter.com/0x0090/status/1221890219512942596?ref_src=twsrc%5Etfw">January 27, 2020</a></blockquote>
