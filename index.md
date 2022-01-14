@@ -20,4 +20,3 @@ Hidden forum coming soon! Prepare by downloading TOR:
 
 1. Bring your friends and family to church<br/>
 2. Teach others to follow the Weaponite principals<br/>
-3. Re-Tweet [this post](https://twitter.com/0x0090/status/1221890219512942596) to help spread the Weaponite word
